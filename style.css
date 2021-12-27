@@ -1,0 +1,74 @@
+body {
+	margin: 0;
+	font-family: Roboto, Arial, sans-serif;
+	line-height: 24px;
+}
+
+header {
+	text-align: center;
+	padding: 150px 10px;
+	background-image: url(./images/porsol.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+div {
+	max-width: 700px;
+	margin: 0px auto;
+	padding: 10px;
+}
+
+footer {
+	text-align: center;
+	padding: 20px;
+	background-color: lightgrey;
+}
+
+header {
+	color: white;
+}
+
+a {
+		text-align: center;
+}
+
+a:hover{
+	color: white;
+}
+
+
+.botao {
+	background-color: deepskyblue;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 6px;
+	padding-bottom: 10px;
+	border-radius: 24px;
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.lista-links {
+	list-style: none;
+	padding-left: 0px;
+	margin-bottom: 0px;
+	font-size: 24px;
+}
+
+.lista-links li {
+	display: inline;
+	margin: 0 10px;
+}
+
+h1 {
+	font-family: Lobster, Arial, sans-serif;
+	text-shadow: 2px 2px 4px black;
+}
+
+p {
+	font-size: 24px;
+	text-shadow: 2px 2px 4px black;
+	padding-bottom: 10px;
+}
